@@ -1,0 +1,60 @@
+C:\Users\USER\Documents\Visual Studio 2013\Projects\ProjectStockManagementApp\ProjectStockManagementApp\bin\ProjectStockManagementApp.dll.config
+C:\Users\USER\Documents\Visual Studio 2013\Projects\ProjectStockManagementApp\ProjectStockManagementApp\bin\ProjectStockManagementApp.dll
+C:\Users\USER\Documents\Visual Studio 2013\Projects\ProjectStockManagementApp\ProjectStockManagementApp\bin\ProjectStockManagementApp.pdb
+C:\Users\USER\Documents\Visual Studio 2013\Projects\ProjectStockManagementApp\ProjectStockManagementApp\obj\Debug\ProjectStockManagementApp.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2013\Projects\ProjectStockManagementApp\ProjectStockManagementApp\obj\Debug\ProjectStockManagementApp.dll
+C:\Users\USER\Documents\Visual Studio 2013\Projects\ProjectStockManagementApp\ProjectStockManagementApp\obj\Debug\ProjectStockManagementApp.pdb
+F:\DotNet\1st Project\ProjectStockManagementApp-20181111T174508Z-001\ProjectStockManagementApp\bin\ProjectStockManagementApp.dll.config
+F:\DotNet\1st Project\ProjectStockManagementApp-20181111T174508Z-001\ProjectStockManagementApp\bin\ProjectStockManagementApp.dll
+F:\DotNet\1st Project\ProjectStockManagementApp-20181111T174508Z-001\ProjectStockManagementApp\bin\ProjectStockManagementApp.pdb
+F:\DotNet\1st Project\ProjectStockManagementApp-20181111T174508Z-001\ProjectStockManagementApp\obj\Debug\ProjectStockManagementApp.csprojResolveAssemblyReference.cache
+F:\DotNet\1st Project\ProjectStockManagementApp-20181111T174508Z-001\ProjectStockManagementApp\obj\Debug\ProjectStockManagementApp.dll
+F:\DotNet\1st Project\ProjectStockManagementApp-20181111T174508Z-001\ProjectStockManagementApp\obj\Debug\ProjectStockManagementApp.pdb
+G:\ProjectStockManagementApp\bin\ProjectStockManagementApp.dll.config
+G:\ProjectStockManagementApp\bin\ProjectStockManagementApp.dll
+G:\ProjectStockManagementApp\bin\ProjectStockManagementApp.pdb
+G:\ProjectStockManagementApp\obj\Debug\ProjectStockManagementApp.csprojResolveAssemblyReference.cache
+G:\ProjectStockManagementApp\obj\Debug\ProjectStockManagementApp.dll
+G:\ProjectStockManagementApp\obj\Debug\ProjectStockManagementApp.pdb
+C:\Users\Trainer 402\Desktop\2018.11.07 cls main\ProjectStockManagementApp\bin\ProjectStockManagementApp.dll.config
+C:\Users\Trainer 402\Desktop\2018.11.07 cls main\ProjectStockManagementApp\bin\ProjectStockManagementApp.dll
+C:\Users\Trainer 402\Desktop\2018.11.07 cls main\ProjectStockManagementApp\bin\ProjectStockManagementApp.pdb
+C:\Users\Trainer 402\Desktop\2018.11.07 cls main\ProjectStockManagementApp\obj\Debug\ProjectStockManagementApp.csprojResolveAssemblyReference.cache
+C:\Users\Trainer 402\Desktop\2018.11.07 cls main\ProjectStockManagementApp\obj\Debug\ProjectStockManagementApp.dll
+C:\Users\Trainer 402\Desktop\2018.11.07 cls main\ProjectStockManagementApp\obj\Debug\ProjectStockManagementApp.pdb
+C:\Users\USER\Documents\GitHub\Stock_Management_APP\ProjectStockManagementApp\bin\ProjectStockManagementApp.dll.config
+C:\Users\USER\Documents\GitHub\Stock_Management_APP\ProjectStockManagementApp\bin\ProjectStockManagementApp.dll
+C:\Users\USER\Documents\GitHub\Stock_Management_APP\ProjectStockManagementApp\bin\ProjectStockManagementApp.pdb
+C:\Users\USER\Documents\GitHub\Stock_Management_APP\ProjectStockManagementApp\obj\Debug\ProjectStockManagementApp.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\GitHub\Stock_Management_APP\ProjectStockManagementApp\obj\Debug\ProjectStockManagementApp.dll
+C:\Users\USER\Documents\GitHub\Stock_Management_APP\ProjectStockManagementApp\obj\Debug\ProjectStockManagementApp.pdb
+H:\ProjectStockManagementApp\bin\ProjectStockManagementApp.dll.config
+H:\ProjectStockManagementApp\bin\ProjectStockManagementApp.dll
+H:\ProjectStockManagementApp\bin\ProjectStockManagementApp.pdb
+H:\ProjectStockManagementApp\obj\Debug\ProjectStockManagementApp.csprojResolveAssemblyReference.cache
+H:\ProjectStockManagementApp\obj\Debug\ProjectStockManagementApp.dll
+H:\ProjectStockManagementApp\obj\Debug\ProjectStockManagementApp.pdb
+E:\bitm c\Stock_Management_APP-Sifat\Stock_Management_APP-Sifat\ProjectStockManagementApp\bin\ProjectStockManagementApp.dll.config
+E:\bitm c\Stock_Management_APP-Sifat\Stock_Management_APP-Sifat\ProjectStockManagementApp\bin\ProjectStockManagementApp.dll
+E:\bitm c\Stock_Management_APP-Sifat\Stock_Management_APP-Sifat\ProjectStockManagementApp\bin\ProjectStockManagementApp.pdb
+E:\bitm c\Stock_Management_APP-Sifat\Stock_Management_APP-Sifat\ProjectStockManagementApp\obj\Debug\ProjectStockManagementApp.csprojResolveAssemblyReference.cache
+E:\bitm c\Stock_Management_APP-Sifat\Stock_Management_APP-Sifat\ProjectStockManagementApp\obj\Debug\ProjectStockManagementApp.dll
+E:\bitm c\Stock_Management_APP-Sifat\Stock_Management_APP-Sifat\ProjectStockManagementApp\obj\Debug\ProjectStockManagementApp.pdb
+G:\tutorial\dot net\FinalProject\Stock_Management_APP-Sifat\ProjectStockManagementApp\bin\ProjectStockManagementApp.dll.config
+G:\tutorial\dot net\FinalProject\Stock_Management_APP-Sifat\ProjectStockManagementApp\bin\ProjectStockManagementApp.dll
+G:\tutorial\dot net\FinalProject\Stock_Management_APP-Sifat\ProjectStockManagementApp\bin\ProjectStockManagementApp.pdb
+G:\tutorial\dot net\FinalProject\Stock_Management_APP-Sifat\ProjectStockManagementApp\obj\Debug\ProjectStockManagementApp.csprojResolveAssemblyReference.cache
+G:\tutorial\dot net\FinalProject\Stock_Management_APP-Sifat\ProjectStockManagementApp\obj\Debug\ProjectStockManagementApp.dll
+G:\tutorial\dot net\FinalProject\Stock_Management_APP-Sifat\ProjectStockManagementApp\obj\Debug\ProjectStockManagementApp.pdb
+E:\bitm c\FinalProjectv2\Stock_Management_APP-Sifat\ProjectStockManagementApp\bin\ProjectStockManagementApp.dll.config
+E:\bitm c\FinalProjectv2\Stock_Management_APP-Sifat\ProjectStockManagementApp\bin\ProjectStockManagementApp.dll
+E:\bitm c\FinalProjectv2\Stock_Management_APP-Sifat\ProjectStockManagementApp\bin\ProjectStockManagementApp.pdb
+E:\bitm c\FinalProjectv2\Stock_Management_APP-Sifat\ProjectStockManagementApp\obj\Debug\ProjectStockManagementApp.csprojResolveAssemblyReference.cache
+E:\bitm c\FinalProjectv2\Stock_Management_APP-Sifat\ProjectStockManagementApp\obj\Debug\ProjectStockManagementApp.dll
+E:\bitm c\FinalProjectv2\Stock_Management_APP-Sifat\ProjectStockManagementApp\obj\Debug\ProjectStockManagementApp.pdb
+F:\DotNet\1st Project\Final project\ProjectStockManagementApp\bin\ProjectStockManagementApp.dll.config
+F:\DotNet\1st Project\Final project\ProjectStockManagementApp\bin\ProjectStockManagementApp.dll
+F:\DotNet\1st Project\Final project\ProjectStockManagementApp\bin\ProjectStockManagementApp.pdb
+F:\DotNet\1st Project\Final project\ProjectStockManagementApp\obj\Debug\ProjectStockManagementApp.csprojResolveAssemblyReference.cache
+F:\DotNet\1st Project\Final project\ProjectStockManagementApp\obj\Debug\ProjectStockManagementApp.dll
+F:\DotNet\1st Project\Final project\ProjectStockManagementApp\obj\Debug\ProjectStockManagementApp.pdb
